@@ -10,7 +10,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.hibernate.tutorials</groupId>
   <artifactId>hibernate-tutorial-mapping-json</artifactId>
-  <version>6.1.7.Final</version>
+  <version>6.3.0.Final</version>
   <name>Hibernate Tutorial Mapping Json</name>
 
     <dependencies>
